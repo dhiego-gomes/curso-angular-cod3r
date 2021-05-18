@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Faber Castel",
+      "price": 5.99
+    },
+    {
+      "id": 2,
+      "name": "Tablet Huion",
+      "price": 3000
+    },
+    {
+      "id": 3,
+      "name": "Bicicleta Groove",
+      "price": 4000
+    }
+  ]
+}
