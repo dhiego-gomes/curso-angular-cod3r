@@ -2,3 +2,15 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.gold {
+    color: #F5E429;
+}
+
+.redbull {
+    color: #E30B43;
+}
+
+.v-middle {
+    vertical-align: middle;
+}
