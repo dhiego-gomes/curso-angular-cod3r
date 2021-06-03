@@ -29,6 +29,11 @@
       "name": "Ventilador",
       "price": "199",
       "id": 6
+    },
+    {
+      "name": "Caderno",
+      "price": "22.50",
+      "id": 7
     }
   ]
 }
