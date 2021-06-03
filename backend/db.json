@@ -1,19 +1,34 @@
 {
   "products": [
     {
-      "id": 1,
       "name": "Caneta Faber Castel",
-      "price": 5.99
+      "price": 5.99,
+      "id": 1
     },
     {
-      "id": 2,
       "name": "Tablet Huion",
-      "price": 3000
+      "price": 3000,
+      "id": 2
     },
     {
-      "id": 3,
       "name": "Bicicleta Groove",
-      "price": 4000
+      "price": 4000,
+      "id": 3
+    },
+    {
+      "name": "Celular",
+      "price": "1000",
+      "id": 4
+    },
+    {
+      "name": "Veio do form",
+      "price": "9.99",
+      "id": 5
+    },
+    {
+      "name": "Ventilador",
+      "price": "199",
+      "id": 6
     }
   ]
 }
