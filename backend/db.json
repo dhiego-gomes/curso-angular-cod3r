@@ -2,7 +2,7 @@
   "products": [
     {
       "name": "Caneta Faber Castel",
-      "price": 5.99,
+      "price": "17.99",
       "id": 1
     },
     {
@@ -32,8 +32,28 @@
     },
     {
       "name": "Caderno",
-      "price": "22.50",
+      "price": "26",
       "id": 7
+    },
+    {
+      "name": "Carro",
+      "price": "40000",
+      "id": 9
+    },
+    {
+      "name": "New",
+      "price": "999",
+      "id": 10
+    },
+    {
+      "name": "Teste de produto",
+      "price": "45",
+      "id": 11
+    },
+    {
+      "name": "Terno",
+      "price": "599",
+      "id": 12
     }
   ]
 }

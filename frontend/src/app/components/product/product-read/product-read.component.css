@@ -7,9 +7,19 @@ table {
 }
 
 .edit > i {
+    color: white;
+}
+
+.edit > i:hover {
     color: lightskyblue;
+    transition: 300ms;
 }
 
 .delete > i {
+    color: white;
+}
+
+.delete > i:hover {
     color: tomato;
+    transition: 300ms;
 }
